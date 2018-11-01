@@ -9,7 +9,7 @@ Fitur :
 A. PEMILIK KOS
   1. Login
   2. Input Data Kos-kosan beserta Lokasi, Foto, Harga, Fasilitas, dll
-  3. Update setiap ada kamar kos yang baru
+  3. Update setiap ada kamar kos yang baru / kosong
   4. Live Chat dengan pencari kos
   5. Deteksi wajah pencari kos (untuk mengantisipasi pancari kos yang beritikat tidak baik)
 
