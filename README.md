@@ -5,6 +5,7 @@ NIM   : 1641723007
 Aplikasi Android ini merupakan aplikasi kos-kos an, baik untuk pemilik kos maupun pencari kos. Aplikasi ini memanfaatkan Map API, Mobile Vision, dan Firebase untuk fitur Lokasi, Tracking Lokasi, Deteksi Wajah Pencari Kos, dan Notifikasi. 
 
 Fitur :
+
 A. PEMILIK KOS
   1. Login
   2. Input Data Kos-kosan beserta Lokasi, Foto, Harga, Fasilitas, dll
